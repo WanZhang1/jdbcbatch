@@ -1,0 +1,13 @@
+[
+  "com.embrace.stage.destination.sample.Groups",
+  "com.embrace.stage.origin.sample.Groups",
+  "com.embrace.stage.executor.sample.SampleDExecutor",
+  "com.embrace.stage.origin.sample.SampleDSource",
+  "com.embrace.stage.destination.sample.SampleDTarget",
+  "com.embrace.stage.processor.sample.SampleDProcessor",
+  "com.embrace.stage.executor.jdbcbatch.Groups",
+  "com.embrace.stage.processor.sample.Groups",
+  "com.embrace.stage.executor.jdbcbatch.JdbcQueryDExecutor",
+  "com.embrace.stage.executor.sample.Groups",
+  "com.embrace.stage.lib.sample.Errors"
+]

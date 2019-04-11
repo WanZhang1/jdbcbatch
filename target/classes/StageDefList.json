@@ -1,0 +1,15 @@
+[
+ {
+	"name": "com_embrace_stage_executor_jdbcbatch_JdbcQueryDExecutor",
+	"type": "EXECUTOR",
+	"label": "Batch JDBC Query",
+	"description": "Executes queries against JDBC compliant database",
+	"version": 2,
+	"statsAggregatorStage": false,
+	"errorStage": false,
+	"beta": false,
+	"tags": [],
+	"onlineHelpRefUrl": "index.html?contextID=task_ym2_3cv_sx",
+	"icon": "rdbms-executor.png"
+ }
+]

@@ -1,0 +1,4 @@
+com/embrace/stage/processor/sample/TestSampleProcessor.class
+com/embrace/stage/executor/sample/TestSampleExecutor.class
+com/embrace/stage/origin/sample/TestSampleSource.class
+com/embrace/stage/destination/sample/TestSampleTarget.class

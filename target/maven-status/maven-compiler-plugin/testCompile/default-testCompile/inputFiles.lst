@@ -1,0 +1,4 @@
+/Users/zhangwan/IdeaProjects/jdbcbatch/src/test/java/com/embrace/stage/processor/sample/TestSampleProcessor.java
+/Users/zhangwan/IdeaProjects/jdbcbatch/src/test/java/com/embrace/stage/destination/sample/TestSampleTarget.java
+/Users/zhangwan/IdeaProjects/jdbcbatch/src/test/java/com/embrace/stage/executor/sample/TestSampleExecutor.java
+/Users/zhangwan/IdeaProjects/jdbcbatch/src/test/java/com/embrace/stage/origin/sample/TestSampleSource.java
